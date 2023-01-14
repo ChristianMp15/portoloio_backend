@@ -30,7 +30,7 @@ app.get("/about", (req, res) => {
 });
 
 //route for retrieving github info
-app.get("/github", (req,res) =>{
+app.get("/github", (req, res) =>{
     //send github via JSON
     res.json(github);
 })
