@@ -29,6 +29,12 @@ app.get("/about", (req, res) => {
   res.json(about);
 });
 
+//route for retrieving github info
+app.get("/github", (req,res) =>{
+    //send github via JSON
+    res.json(github);
+})
+
 //declare a variable for our port number
 const PORT = process.env.PORT || 4000;
 
