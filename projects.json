@@ -1,0 +1,14 @@
+[
+    {
+        "name": "project2",
+        "live": "https://project2-lo83.onrender.com/todos",
+        "git": "https://github.com/ChristianMp15/Project2.git",
+        "image": "https://i.imgur.com/1vzmh35.png"
+    },
+    {
+        "name": "trivia game",
+        "live": "",
+        "git": "https://github.com/ChristianMp15/ProjectTrivia.git",
+        "image": "https://i.imgur.com/8sbsz5E.jpg"
+    }
+]
