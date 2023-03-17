@@ -1,14 +1,25 @@
 [
     {
-        "name": "project2",
-        "live": "https://project2-lo83.onrender.com/todos",
-        "git": "https://github.com/ChristianMp15/Project2.git",
-        "image": "https://i.imgur.com/1vzmh35.png"
+        "image": "https://i.imgur.com/1vzmh35.png",
+        "name": "Todo list",
+        "description": "A list of my daily plan",
+        "github": "https://github.com/ChristianMp15/Project2",
+        "live":"https://project2-lo83.onrender.com/todos"
     },
     {
-        "name": "trivia game",
-        "live": "",
-        "git": "https://github.com/ChristianMp15/ProjectTrivia.git",
-        "image": "https://i.imgur.com/8sbsz5E.jpg"
+        "image": "https://i.imgur.com/8sbsz5E.jpg",
+        "name": "Trivia Soccer Game",
+        "description": "Soccer related questions",
+        "github": "https://github.com/ChristianMp15/Project1",
+        "live":"https://reliable-cobbler-3fd5dd.netlify.app/"
+
+    },
+    {
+        "image": "https://i.imgur.com/YZ4F8Rg.jpg",
+        "name": "Weather App",
+        "description": "An app that allow users to check the weather",
+        "github": "https://github.com/ChristianMp15/weather_app",
+        "live":"https://precious-palmier-c4bd7b.netlify.app/"
+
     }
 ]

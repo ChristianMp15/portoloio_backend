@@ -5,7 +5,7 @@ const cors = require("cors");
 // Import JSON files
 const projects = require("./projects.json");
 const about = require("./about.json");
-const github= require("./github.json");
+const github = require("./github.json");
 
 // Create our app object
 const app = express();
